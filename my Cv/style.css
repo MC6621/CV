@@ -1,0 +1,36 @@
+body {
+    margin:9px;
+    width: 100%;
+
+}
+
+.card-body {
+    flex: 7 12o;
+    padding: 0rem 1rem;
+}
+
+
+
+
+
+.diameters {
+    height: 100%;
+    width:  60%;
+
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+.diameters 2
+
+.mx-3 {
+    margin-right: 5rem!important;
+    margin-left: 1rem!important;
+}
+
+
+
+element.style {
+    display: flex;
+    flex-direction: column;
+}
