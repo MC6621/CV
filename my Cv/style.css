@@ -1,24 +1,36 @@
 body {
     margin: 9px;
     width: 100%;
-
+    background-color: rgb(65, 12, 26) !important;
 }
 
 .card-body {
     flex: 7 12o;
     padding: 0rem 1rem;
+
+}
+
+.ml-2 {
+ margin:auto
+
+}
+
+.ml-21 {
+
+    margin: -6.5rem  
 }
 
 .card {
 
-    background-color: red;
+    background-color: red !important;
 
 }
 
-.card-body mt-n3 element style {
-    display: grid
-
+.disply   {
+    display: grid;
 }
+
+
 
 
 
@@ -33,10 +45,7 @@ body {
 
 }
 
-.diameters 2 .mx-3 {
-    margin-right: 5rem !important;
-    margin-left: 1rem !important;
-}
+
 
 
 
@@ -82,4 +91,49 @@ div {
 
 
 
+}
+
+.h20  {
+
+    height: 20px !important
+
+
+}
+
+
+.photography {
+width : 70%;
+
+
+
+}
+
+
+.asana {
+
+width: 90%;
+
+    
+}
+
+.html {
+
+    width: 60%;
+}
+
+
+.progress1{
+
+ height: 20px !important;
+
+}
+.progress2 {
+
+    height: 20px !important;
+
+}
+
+.progress3 {
+
+    height: 20px !important;
 }
